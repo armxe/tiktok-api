@@ -6,6 +6,7 @@ A technical overview of TikTok's internal API security, covering the signature a
 **Disclaimer:** Interacting with private APIs without authorization may violate the terms of service of the platform. Proceed with caution and at your own risk.
 
 #### Update 28/03/2026 : Every algorithm (Mobile/Web) has been updated. Thanks for the stars ❤.
+Adding other more useful things at 500 Stars 💕
 
 ---
 
